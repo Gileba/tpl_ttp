@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Truck and Trail Performance Template (Package)</name>
+		<description>Truck and Trail Performance Template (Package)</description>
+		<element>pkg_ttp</element>
+		<type>package</type>
+		<version>0.1.0</version>
+		<infourl title="Truck and Trail Performance Template Package">https://github.com/Gileba/tpl_ttp/releases/tag/0.1.0</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/Gileba/tpl_ttpeleases/download/0.1.0/pkg_ttp.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<targetplatform name="joomla" version="3.[9]"/>
+		<client>0</client>
+	</update>
+</updates>

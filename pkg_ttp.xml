@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="3.9.13" method="upgrade">
+	<name>Truck and Trail Performance Template Package</name>
+	<author>Gijs Lamon</author>
+	<creationDate>2019-12-12</creationDate>
+	<packagename>ttp</packagename>
+	<version>0.1.0</version>
+	<packager>Gijs Lamon</packager>
+	<infourl title="Truck and Trail Performance Template Package">https://github.com/Gileba/tpl_ttp/releases/tag/0.1.0</infourl>
+	<description>Package containing the template and its dependancies for Truck and Trail Performance</description>
+	<files folder="packages">
+		<file type="template" id="tpl_ttp" client="site">tpl_ttp.zip</file>
+		<file type="plugin" id="templatecompanion" group="system">plg_system_templatecompanion.zip</file>
+	</files>
+	<updateservers>
+		<server type="extension" name="Ssstt Shiatsu Package">http://www.gileba.be/updates/tpl_ttp.xml</server>
+	</updateservers>
+</extension>
