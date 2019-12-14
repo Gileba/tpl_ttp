@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="3.9.13" type="template" method="upgrade">
-	<name>tpl_ssstt_shiatsu</name>
+	<name>tpl_ttp</name>
 	<creationDate>2019-12-14</creationDate>
 	<author>Gijs Lamon</author>
 	<authorEmail>info@gileba.be</authorEmail>
