@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="3.8.10" type="template" method="upgrade">
+<extension version="3.9.13" type="template" method="upgrade">
 	<name>tpl_ssstt_shiatsu</name>
-	<creationDate>2019-04-13</creationDate>
+	<creationDate>2019-12-14</creationDate>
 	<author>Gijs Lamon</author>
 	<authorEmail>info@gileba.be</authorEmail>
 	<authorUrl>http://www.gileba.be/</authorUrl>
-	<copyright>(c) 2018-2019 by Gileba, based on the original layout of the website made by Marleen Debuisson-Zwartebroeckx with VistaPrint</copyright>
+	<copyright>(c) 2019 by Gileba</copyright>
 	<license>GNU/GPL</license>
-	<version>1.0.2</version>
-	<description>Template for Ssstt Shiatsu</description>
+	<version>0.1.0</version>
+	<description>Template for Truck and Trail Performance</description>
 	<files>
 		<filename>index.php</filename>
 		<filename>templateDetails.xml</filename>
@@ -17,12 +17,6 @@
 		<folder>images</folder>
 		<folder>less</folder>
 	</files>
-	<positions>
-		<position>title</position>
-		<position>nav</position>
-		<position>header</position>
-		<position>footer</position>
-	</positions>
 	<config>
 		<fieldset name="params">
 			<fieldset name="global">
